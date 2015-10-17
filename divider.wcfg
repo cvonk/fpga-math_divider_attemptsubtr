@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Coert/Desktop/test/divider/divider_test_isim_par.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="divider_test" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="6" />
+   <wvobject fp_name="/divider_test/q" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">q[15:0]</obj_property>
+      <obj_property name="ObjectShortName">q[15:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_test/r" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">r[16:0]</obj_property>
+      <obj_property name="ObjectShortName">r[16:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_test/x" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">x[16:0]</obj_property>
+      <obj_property name="ObjectShortName">x[16:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_test/y" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">y[16:0]</obj_property>
+      <obj_property name="ObjectShortName">y[16:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_test/xWIDTH" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">xWIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">xWIDTH[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+   <wvobject fp_name="/divider_test/yWIDTH" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">yWIDTH[31:0]</obj_property>
+      <obj_property name="ObjectShortName">yWIDTH[31:0]</obj_property>
+      <obj_property name="Radix">UNSIGNEDDECRADIX</obj_property>
+   </wvobject>
+</wave_config>
